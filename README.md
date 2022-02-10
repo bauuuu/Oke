@@ -31,6 +31,7 @@
  - Anyone who can connect to the internet.
  
  ## Language Used:
+
  - HTML5
  - JVS
  - CSS3
@@ -40,7 +41,7 @@
  1. NVT
     * thanhnvse140079@fpt.edu.vn
     * github: vthanh2
- 2.
+ 2. ጿ ኈ ቼ ዽ ጿ ኈ ቼ ዽ ጿ ኈ ቼ ዽ 
  3.
  4.
  
