@@ -4,6 +4,7 @@
 
 -----------------------
 ## Functions of the Website:
+
 > For User:
 - Sign up and Sign in .
 - Recommendation .
@@ -25,10 +26,10 @@
   * Delete a product .
   * Update product information .
  - Delete User / Disable User .
- ----------------------------
+
  ## Who can use ?
  - Anyone who can connect to the internet.
- ----------------------------
+ 
  ## Language Used:
  - HTML5
  - JVS
