@@ -31,9 +31,6 @@ A Books' Corner is an online bookstore that allows users to order and have it de
   * Delete a product .
   * Update product information .
  - Delete User / Disable User .
-
- ## Who can use ?
- - Anyone who can connect to the internet.
  
  ## Language Used:
 
